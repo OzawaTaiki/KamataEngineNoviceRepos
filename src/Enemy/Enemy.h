@@ -1,6 +1,6 @@
 #pragma once
 
-#include "InputManager.h"
+#include "../Input/InputManager.h"
 
 #include <math/Vector2.h>
 #include <memory>
@@ -35,4 +35,3 @@ private:
 
     bool isAlive_ = true;
 };
- 

@@ -1,10 +1,10 @@
 #include <Novice.h>
 
-#include "SceneManager.h"
-#include "GameScene.h"
-#include "TitleScene.h"
-#include "GameClearScene.h"
-#include "InputManager.h"
+#include "src/Scene/SceneManager.h"
+#include "src/Scene/GameScene.h"
+#include "src/Scene/TitleScene.h"
+#include "src/Scene/GameClearScene.h"
+#include "src/input/InputManager.h"
 
 const char kWindowTitle[] = "LE2A_06_オザワ_タイキ";
 

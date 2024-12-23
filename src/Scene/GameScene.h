@@ -2,8 +2,8 @@
 
 #include "IScene.h"
 
-#include "Player.h"
-#include "Enemy.h"
+#include "../player/Player.h"
+#include "../Enemy/Enemy.h"
 #include <memory>
 
 class GameScene : public IScene

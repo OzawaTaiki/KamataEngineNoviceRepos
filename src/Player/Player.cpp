@@ -1,6 +1,6 @@
 #include "Player.h"
 
-#include "InputManager.h"
+#include "../Input/InputManager.h"
 #include <Novice.h>
 
 void Player::Initialize()
