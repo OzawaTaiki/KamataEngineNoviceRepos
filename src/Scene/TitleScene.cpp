@@ -1,6 +1,6 @@
 #include "TitleScene.h"
 #include "SceneManager.h"
-#include "InputManager.h"
+#include "../Input/InputManager.h"
 #include <Novice.h>
 
 std::unique_ptr<IScene> TitleScene::Create()
